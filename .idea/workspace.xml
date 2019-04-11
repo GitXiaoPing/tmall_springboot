@@ -2,74 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69a3d344-2e38-49e8-8ebf-f05730bf1f46" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/how2java/tmall/Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/editCategory.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/editProduct.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/editProperty.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/editPropertyValue.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/errorPage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/listCategory.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/listOrder.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/listProduct.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/listProductImage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/listProperty.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/listUser.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/fore/alipay.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/fore/bought.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/fore/buy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/fore/cart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/fore/category.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/fore/confirmPay.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/fore/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/fore/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/fore/orderConfirmed.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/fore/payed.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/fore/product.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/fore/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/fore/registerSuccess.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/fore/review.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/fore/search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/admin/adminFooter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/admin/adminHeader.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/admin/adminNavigator.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/admin/adminPage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/admin/testhead.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/fore/cart/alipayPage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/fore/cart/boughtPage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/fore/cart/buyPage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/fore/cart/cartPage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/fore/cart/confirmPayPage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/fore/cart/orderConfirmedPage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/fore/cart/payedPage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/fore/cart/reviewPage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/fore/category/categoryPage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/fore/category/productsByCategory.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/fore/category/sortBar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/fore/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/fore/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/fore/home/carousel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/fore/home/categoryAndcarousel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/fore/home/categoryMenu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/fore/home/homePage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/fore/home/homepageCategoryProducts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/fore/home/productsAsideCategorys.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/fore/loginPage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/fore/modal4deleteConfirm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/fore/modal4login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/fore/product/imgAndInfo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/fore/product/productDetail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/fore/product/productPage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/fore/product/productReview.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/fore/productsBySearch.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/fore/registerPage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/fore/registerSuccessPage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/fore/search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/fore/searchPage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/fore/simpleSearch.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/include/fore/top.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -102,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/how2java/tmall/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="83">
-              <caret line="21" column="24" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="24" />
+            <state relative-caret-position="323">
+              <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -150,7 +83,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tmall_springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tmall_springboot" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="Course" />
@@ -211,16 +154,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554986790538</updated>
-      <workItem from="1554986795150" duration="2095000" />
+      <workItem from="1554986795150" duration="2970000" />
     </task>
+    <task id="LOCAL-00001" summary="代码修改">
+      <created>1554989093056</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554989093056</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2095000" />
+    <option name="totallyTimeSpent" value="2970000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info id="JRebel" side_tool="true" />
       <window_info id="Image Layers" />
@@ -229,7 +179,7 @@
       <window_info id="Capture Tool" />
       <window_info id="Web" side_tool="true" />
       <window_info id="设计器" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25016767" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25016767" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="SQL" />
       <window_info anchor="bottom" id="Messages" />
@@ -241,7 +191,7 @@
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="bottom" id="MyBatis Sql Log" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Version Control" weight="0.66" />
       <window_info anchor="bottom" id="Tail" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="JRebel Executor" />
@@ -271,6 +221,36 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="代码修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="代码修改" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -288,8 +268,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/how2java/tmall/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="24" />
+        <state relative-caret-position="323">
+          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
         </state>
       </provider>
     </entry>
